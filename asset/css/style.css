@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #212529;
+}
+
+.navbar-brand {
+    font-weight: 500;
+}
+
+.card-title {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.card-text {
+    color: #707070;
+}
+
+.text-success {
+    color: #28a745 !important;
+}
+
+.bg-success {
+    background-color: #28a745 !important;
+}
+
+.btn-light {
+    background-color: #F8F9FA;
+    border-color: #F8F9FA;
+    color: #212529;
+}
+
+.btn-light:hover {
+    background-color: #e2e6ea;
+    border-color: #dae0e5;
+}
+
+.logo-cuppon-black {
+    max-width: 10px;
+}
